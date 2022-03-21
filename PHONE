@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [8K] RAI NEWS 24 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAINEWS24HD.png" group-title="[IT] GENERALE",[IT] [8K] RAI NEWS 24 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105926
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="[IT] [8K] RETE 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RETE4.png" group-title="[IT] GENERALE",[IT] [8K] RETE 4 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105759
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="[IT] [8K] CANALE 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CANALE5.png" group-title="[IT] GENERALE",[IT] [8K] CANALE 5 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105760
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="[IT] [SD] TGCOM24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGCOM24.png" group-title="[IT] GENERALE",[IT] [SD] TGCOM24
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105925
+#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="[IT] [SD] TG NORBA 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGNORBA24.png" group-title="[IT] GENERALE",[IT] [SD] TG NORBA 24
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105927
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="[IT] [HD] SKY TG 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/SKYTG24.png" group-title="[IT] GENERALE",[IT] [HD] SKY TG 24
+http://line.uhd-ott.io:80/A5FCFD/FC884F/233588
+#EXTINF:-1 tvg-ID="antena1.ro" tvg-name="[RO] [HD] ANTENA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/ANTENA1.png" group-title="ROMANIA",[RO] [HD] ANTENA 1 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106818
+#EXTINF:-1 tvg-ID="" tvg-name="[RO] [HD] ANTENA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/ANTENA1.png" group-title="ROMANIA",[RO] [HD] ANTENA 1 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106819
+#EXTINF:-1 tvg-ID="protv.ro" tvg-name="[RO] [HD] PRO TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/PROTV.png" group-title="ROMANIA",[RO] [HD] PRO TV HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106910
+#EXTINF:-1 tvg-ID="protv.ro" tvg-name="[RO] [SD] PRO TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/PROTV.png" group-title="ROMANIA",[RO] [SD] PRO TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106907
+#EXTINF:-1 tvg-ID="digi24.ro" tvg-name="[RO] [HD] DIGI 24 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/DIGI24.png" group-title="ROMANIA",[RO] [HD] DIGI 24 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106932
+#EXTINF:-1 tvg-ID="antena3.ro" tvg-name="[RO] [HD] ANTENA 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/ANTENA3.png" group-title="ROMANIA",[RO] [HD] ANTENA 3 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/114864
+#EXTINF:-1 tvg-ID="antena3.ro" tvg-name="[RO] [SD] ANTENA 3" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/ANTENA3.png" group-title="ROMANIA",[RO] [SD] ANTENA 3
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106820
+#EXTINF:-1 tvg-ID="" tvg-name="[RO] [SD] REALITATEA TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/REALITATEATV.png" group-title="ROMANIA",[RO] [SD] REALITATEA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106911
+#EXTINF:-1 tvg-ID="romaniatv.ro" tvg-name="[RO] [SD] ROMANIA TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/ROMANIATV.png" group-title="ROMANIA",[RO] [SD] ROMANIA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106912
+#EXTINF:-1 tvg-ID="b1.ro" tvg-name="[RO] [SD] B1 TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/B1TV.png" group-title="ROMANIA",[RO] [SD] B1 TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106826
+#EXTINF:-1 tvg-ID="nationaltv.ro" tvg-name="[RO] [SD] NATIONAL TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/NATIONALTV.png" group-title="ROMANIA",[RO] [SD] NATIONAL TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106900
+#EXTINF:-1 tvg-ID="" tvg-name="[RO] [SD] NATIONAL 24" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/NATIONAL24.png" group-title="ROMANIA",[RO] [SD] NATIONAL 24
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106897
+#EXTINF:-1 tvg-ID="primatv.ro" tvg-name="[RO] [SD] PRIMA TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/PRIMATV.png" group-title="ROMANIA",[RO] [SD] PRIMA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106903
