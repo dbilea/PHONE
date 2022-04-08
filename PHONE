@@ -36,3 +36,7 @@ http://line.uhd-ott.io:80/A5FCFD/FC884F/106900
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106897
 #EXTINF:-1 tvg-ID="primatv.ro" tvg-name="[RO] [SD] PRIMA TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/PRIMATV.png" group-title="ROMANIA",[RO] [SD] PRIMA TV
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106903
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA1.png" group-title="[IT] GENERALE",[IT] [HD] RSI LA 1 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105940
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA2.png" group-title="[IT] GENERALE",[IT] [HD] RSI LA 2 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/105941
